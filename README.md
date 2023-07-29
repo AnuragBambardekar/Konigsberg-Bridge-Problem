@@ -8,8 +8,9 @@ The problem was to determine whether it was possible to take a walk through the 
 
 The Swiss mathematician Leonhard Euler is credited with solving the Königsberg Bridge Problem in 1736. He introduced the concept of a "graph" to represent the city and its bridges, where the landmasses were represented as nodes, and the bridges were represented as edges connecting these nodes.
 
-This repository will explore the problem and come up with a solution to this problem.
+This repository will explore the problem and come up with a solution ? (lol) using Python.
 
 ## References
 
-- https://www.youtube.com/watch?v=WWhGcwlCoXE&t - Solving the Königsberg Bridge Problem - David Amos
+- https://www.youtube.com/watch?v=WWhGcwlCoXE&t - Solving the Königsberg Bridge Problem - David Amo
+- https://www.youtube.com/watch?v=W18FDEA1jRQ - The Seven Bridges of Königsberg - Numberphile
